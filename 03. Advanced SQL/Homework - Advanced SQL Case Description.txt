@@ -1,0 +1,8 @@
+# Case 1
+“The marketing team wants to measure the audience for our product ad. They asked you about, how many female customers do you think in Jakarta have Gmail accounts? Also, if possible, they want to push the ad to potential users only. So they think it’s better if you filter them by those who have transactions at least 10 times.”
+
+# Case 2
+“The product team wants to add some new products to our marketplace this week. Can you advise currently which product has the maximum performance in Q4 (Oct 2018 - Dec 2018)? Let say give them the top 5 products that have total transactions (quantity) above average.”
+
+# Case 3
+“Our CEO asked what type of store currently gets the most transaction-specific in quantity from the Jakarta region? Is it the same between males and females? For comparison, please share outside the Jakarta region as well.”
