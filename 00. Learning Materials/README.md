@@ -21,4 +21,16 @@ This directory contains the summary of learning materials during the bootcamp. I
 - Week 5
   - Session 13 - Basic Programming IV: Functions
   - Session 14 - Introduction to Numpy
-  - Session 15 - Introduction to Pandas and Basic Dataframe
+  - Session 15 - Introduction to Pandas
+- Week 6
+  - Session 16 - Introduction to Kaggle
+  - Session 17 - Analytical and Critical Thinking
+  - Session 18 - Intermediate Dataframe
+- Week 7
+  - Session 19 - Advanced Dataframe
+  - Session 20 - Database Programming
+  - Session 21 - Application Programming Interface
+- Week 8
+  - Session 22 - Basic Statistics
+  - Session 23 - Intermediate Statistics
+  - Session 24 - Advanced Statistics
